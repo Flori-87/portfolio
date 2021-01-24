@@ -248,7 +248,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .icon-mongo{ background-image: url(../../images/mongodb.png); background-position: 0px 0; height: 45px; width: 45px; }
 .icon-tableau{ background-image: url(../../images/tableau.png); background-position: 0px 0; height: 45px; width: 45px; }
 .icon-scipy{ background-image: url(../../images/scipy.png); background-position: 0px 0; height: 40px; width: 40px; }
-
+.icon-r{ background-image: url(../../images/r.png); background-position: 0px 0; height: 40px; width: 40px; }
 	
 	
 /* ---------------------------------
